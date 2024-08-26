@@ -125,6 +125,10 @@ h2{
     justify-content: space-evenly;
     align-items: center;
 }
+.web-build{
+    background-color: #00b0e0;
+    padding-top: 10px;
+}
 
 
 
@@ -180,5 +184,13 @@ h2{
     .tri-text{
         font-size: 20px;
     }
-   
+    
+        .tri{
+
+            font-size: 15px;
+          
+        }
+   .nav-bar{
+    position: static;
+   }
 }
